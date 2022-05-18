@@ -1,0 +1,11 @@
+.head{
+    display: center;
+    text-align:center;
+    margin: 1.5rem;
+}
+
+.searcharea{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

@@ -1,0 +1,26 @@
+.navbar {
+
+    background-color: #44678a;
+
+  }
+
+.topNav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 1.5rem;
+}
+
+.left > * {
+    margin-right: 1.5rem;
+}
+
+.right {
+    display: flex;
+    align-items: center;
+}
+
+.right > * {
+    margin-left: 1.5rem;
+    align-items: center;
+}
