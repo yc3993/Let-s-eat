@@ -4,7 +4,7 @@ import googlemaps
 def lambda_handler(event, context):
     print(event['body'])
     add = json.loads(event['body'])['location']
-    gmaps = googlemaps.Client(key='AIzaSyBlfohsLm-dzwy8ms2DJF-z8pP9MNloN7I')
+    gmaps = googlemaps.Client(key='')
     
     # Geocoding an address
     geocode_result = gmaps.geocode(add)
