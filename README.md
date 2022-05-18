@@ -7,3 +7,5 @@ Github Link: https://github.com/yc3993/Let-s-eat
 
 Youtube Link: https://youtu.be/i9AOjXNBQco
   </p>
+
+<img width="584" alt="image" src="https://user-images.githubusercontent.com/90934485/168950446-0216fff5-4d9d-49ae-a4f4-93c3ddc51712.png">
